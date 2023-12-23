@@ -4,11 +4,6 @@ this project is task for making web app (users management  , crud operations of 
 
 ## Getting Started
 
-### Admin Login
-
-* Email: admin@admin.com
-* Password: 11111
-
 ### Installation
 
 ```
@@ -20,3 +15,8 @@ php artisan migrate --seed
 ```
 php artisan migrate --database="mysql"
 ```
+
+### Admin Login
+
+* Email: admin@admin.com
+* Password: 11111
